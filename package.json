@@ -1,0 +1,27 @@
+{
+  "name": "vue-pug-alias",
+  "version": "1.0.3",
+  "description": "Aliases for pug-plain-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/sergey-peskov/vue-pug-alias.git",
+  "keywords": [
+    "vue",
+    "alias",
+    "webpack",
+    "pug"
+  ],
+  "author": "Sergey Peskov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergey-peskov/vue-pug-alias/issues"
+  },
+  "homepage": "https://github.com/sergey-peskov/vue-pug-alias#readme",
+  "dependencies": {
+    "app-root-path": "^2.2.1",
+    "pug-plain-loader": "^1.0.0"
+  },
+  "devDependencies": {}
+}
